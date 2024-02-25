@@ -1,0 +1,32 @@
+{
+  "name": "signal-query-models",
+  "version": "0.1.0-alpha.1",
+  "description": "Signal Query Models is an innovative React library for building reactive models with seamless React Query integration, aimed at enhancing state management and data synchronization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedebarbieri/signal-query-models.git"
+  },
+  "keywords": [
+    "react",
+    "query",
+    "signals",
+    "model",
+    "frontend-ORM"
+  ],
+  "author": "Justo Debarbieri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jedebarbieri/signal-query-models/issues"
+  },
+  "homepage": "https://github.com/jedebarbieri/signal-query-models#readme",
+  "dependencies": {
+    "@preact/signals-react": "^1.3.8",
+    "@tanstack/react-query": "5.8.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
